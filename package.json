@@ -129,7 +129,8 @@
           "trailingComma": "es5",
           "useTabs": false
         }
-      ]
+      ],
+      "no-warning-comments": 0
     }
   },
   "eslintIgnore": [
